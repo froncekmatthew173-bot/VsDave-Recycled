@@ -293,7 +293,7 @@ class FreeplayState extends MusicBeatState
 				addWeek(['cuzsie-x-kapi-shipping-cute'], 18, ['cuzsie']);
 				addWeek(['bananacore'], 19, ['the-trio-old']);
 				addWeek(['eletric-cockadoodledoo'], 17, ['the-trio']);
-				addWeek(['eletric-cockadoodledoo-two'], 17, ['the-squad']);	
+				addWeek(['electric-cockadoodledoo'], 17, ['the-squad']);	
 				if (FlxG.save.data.vsDaveRapTwoFound)
 				{
 					addWeek(['Vs-Dave-Rap-Two'], 1, ['dave-cool']);
